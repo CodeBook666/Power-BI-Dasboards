@@ -1,2 +1,2 @@
 # Sales-Dashboard-
-A Power Bi report for the sales happen in USA where it visual presents the monthly and yearly sales transactions.
+A Power Bi reports were made for different data sources
